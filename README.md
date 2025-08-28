@@ -1,5 +1,5 @@
 # *Connect-Web-API-to-Blazor*
-Configuration how to connect Web API to Blazor
+Configuration how to connect Web API to Blazor server | Blazor Wasm
 
 ### 1. *Setup Web API base URL in blazor program.cs*
 
